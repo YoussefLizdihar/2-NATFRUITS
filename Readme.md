@@ -56,7 +56,7 @@ Natfruits/
 
 - **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/natfruits.git
+   git clone https://github.com/YoussefLizdihar/2-NATFRUITS.git
     ```
     ```bash
     cd natfruits
